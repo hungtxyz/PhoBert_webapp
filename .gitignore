@@ -137,3 +137,7 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 .idea/
+/server/fastBPE/
+/server/model/
+/server/PhoBERT_base_transformers/
+/server/vncorenlp/
